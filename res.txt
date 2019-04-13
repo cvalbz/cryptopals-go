@@ -1,0 +1,655 @@
+tested line is 0
+chi is 245.9401620552715
+tested line is 1
+chi is 160.56707563511196
+tested line is 2
+chi is 156.39695613818844
+tested line is 3
+chi is 185.8363105657503
+tested line is 4
+chi is 90.81492594409875
+tested line is 5
+chi is 184.79308930170336
+tested line is 6
+chi is 132.4693479656308
+tested line is 7
+chi is 82.0811770441929
+tested line is 8
+chi is 105.56062833943156
+tested line is 9
+chi is 127.77896968390309
+tested line is 10
+chi is 245.76671417276842
+tested line is 11
+chi is 154.62828245864296
+tested line is 12
+chi is 157.01621283655288
+tested line is 13
+chi is 152.68793177824108
+tested line is 14
+chi is 103.43950745093727
+tested line is 15
+chi is 87.97573359443132
+tested line is 16
+chi is 181.12232785461902
+tested line is 17
+chi is 155.26599144369965
+tested line is 18
+chi is 180.74106774698032
+tested line is 19
+chi is 85.04292148845964
+tested line is 20
+chi is 128.68452496176454
+tested line is 21
+chi is 132.95714558127062
+tested line is 22
+chi is 358.43449889446873
+tested line is 23
+chi is 156.32998565500625
+tested line is 24
+chi is 110.50900537907685
+tested line is 25
+chi is 96.5688258473545
+tested line is 26
+chi is 107.48138355570062
+tested line is 27
+chi is 180.8988443579085
+tested line is 28
+chi is 156.6988448332303
+tested line is 29
+chi is 131.68080401633335
+tested line is 30
+chi is 102.44313562846419
+tested line is 31
+chi is 156.69207773637243
+tested line is 32
+chi is 83.92559078796637
+tested line is 33
+chi is 152.64851004983763
+tested line is 34
+chi is 104.78758563583142
+tested line is 35
+chi is 63.8388391744377
+tested line is 36
+chi is 181.50625726333325
+tested line is 37
+chi is 106.3859171679787
+tested line is 38
+chi is 152.68032255495834
+tested line is 39
+chi is 210.61335636673803
+tested line is 40
+chi is 281.3249703376447
+tested line is 41
+chi is 85.01540286869934
+tested line is 42
+chi is 212.74092226927064
+tested line is 43
+chi is 103.7794195274205
+tested line is 44
+chi is 213.3816579442442
+tested line is 45
+chi is 165.71560653312582
+tested line is 46
+chi is 180.1643112019569
+tested line is 47
+chi is 129.2281043160442
+tested line is 48
+chi is 152.7989790295707
+tested line is 49
+chi is 152.5483285817522
+tested line is 50
+chi is 246.87884453102987
+tested line is 51
+chi is 90.78951494075207
+tested line is 52
+chi is 245.30715632808207
+tested line is 53
+chi is 152.72659348534194
+tested line is 54
+chi is 150.9622804590536
+tested line is 55
+chi is 84.20948837807491
+tested line is 56
+chi is 184.29764067752453
+tested line is 57
+chi is 280.44152086071557
+tested line is 58
+chi is 49.49778034577482
+tested line is 59
+chi is 104.41247078510422
+tested line is 60
+chi is 180.85790152044413
+tested line is 61
+chi is 211.01944373591354
+tested line is 62
+chi is 83.45573199393459
+tested line is 63
+chi is 153.95333007577565
+tested line is 64
+chi is 157.4135902824217
+tested line is 65
+chi is 132.86177921899116
+tested line is 66
+chi is 126.46443237656032
+tested line is 67
+chi is 251.44646628394722
+tested line is 68
+chi is 211.9529809282317
+tested line is 69
+chi is 153.57394183163575
+tested line is 70
+chi is 131.55987054175773
+tested line is 71
+chi is 127.89942785206848
+tested line is 72
+chi is 152.91415817130869
+tested line is 73
+chi is 150.9693590872079
+tested line is 74
+chi is 153.97494528335477
+tested line is 75
+chi is 153.11480173049148
+tested line is 76
+chi is 166.0350451462311
+tested line is 77
+chi is 86.97856583326754
+tested line is 78
+chi is 85.88562694002009
+tested line is 79
+chi is 152.3439888024533
+tested line is 80
+chi is 281.8385051581762
+tested line is 81
+chi is 213.6064578094041
+tested line is 82
+chi is 89.22402431012236
+tested line is 83
+chi is 155.56357359238964
+tested line is 84
+chi is 160.45611261285825
+tested line is 85
+chi is 129.1460301130112
+tested line is 86
+chi is 83.22603066268867
+tested line is 87
+chi is 244.20078699481118
+tested line is 88
+chi is 181.5181966613699
+tested line is 89
+chi is 69.03866149583114
+tested line is 90
+chi is 157.7986235274679
+tested line is 91
+chi is 180.83463771941265
+tested line is 92
+chi is 153.67783308991338
+tested line is 93
+chi is 173.87956833173348
+tested line is 94
+chi is 210.96864965665074
+tested line is 95
+chi is 317.6398510523722
+tested line is 96
+chi is 105.88479305095503
+tested line is 97
+chi is 152.0830627518091
+tested line is 98
+chi is 128.51903981870586
+tested line is 99
+chi is 90.72448758147135
+tested line is 100
+chi is 104.65173049163522
+tested line is 101
+chi is 45.69948060605593
+tested line is 102
+chi is 180.71710430802614
+tested line is 103
+chi is 106.32037588896827
+tested line is 104
+chi is 151.7970301249481
+tested line is 105
+chi is 126.03684646886974
+tested line is 106
+chi is 66.01518017610897
+tested line is 107
+chi is 128.5195224854359
+tested line is 108
+chi is 244.85227326612605
+tested line is 109
+chi is 180.08251693397176
+tested line is 110
+chi is 91.50066809794568
+tested line is 111
+chi is 180.8162991572268
+tested line is 112
+chi is 155.03343629979665
+tested line is 113
+chi is 157.63316738240874
+tested line is 114
+chi is 125.21671050003228
+tested line is 115
+chi is 104.20365882716406
+tested line is 116
+chi is 127.11916854061461
+tested line is 117
+chi is 130.62340434159518
+tested line is 118
+chi is 210.75765632081456
+tested line is 119
+chi is 153.81985956490453
+tested line is 120
+chi is 152.407196883313
+tested line is 121
+chi is 127.10600404098048
+tested line is 122
+chi is 284.81131706164336
+tested line is 123
+chi is 151.7453208808952
+tested line is 124
+chi is 196.70701385455678
+tested line is 125
+chi is 244.85130754585646
+tested line is 126
+chi is 280.4815854881382
+tested line is 127
+chi is 103.06026018505169
+tested line is 128
+chi is 179.52972202589424
+tested line is 129
+chi is 87.45985174680911
+tested line is 130
+chi is 210.79919107675866
+tested line is 131
+chi is 152.81198842159353
+tested line is 132
+chi is 49.76752344307628
+tested line is 133
+chi is 244.79153448471644
+tested line is 134
+chi is 103.39330670184592
+tested line is 135
+chi is 129.431188125069
+tested line is 136
+chi is 88.89004545991766
+tested line is 137
+chi is 133.81812137639363
+tested line is 138
+chi is 52.700143143007566
+tested line is 139
+chi is 151.82370436177425
+tested line is 140
+chi is 151.76145699033017
+tested line is 141
+chi is 184.7820148065057
+tested line is 142
+chi is 128.44534350302462
+tested line is 143
+chi is 126.21226220904832
+tested line is 144
+chi is 156.39939731430837
+tested line is 145
+chi is 184.2676931225942
+tested line is 146
+chi is 58.31895284872027
+tested line is 147
+chi is 210.6161808318399
+tested line is 148
+chi is 182.3717725887761
+tested line is 149
+chi is 110.81524451126899
+tested line is 150
+chi is 132.0600622135541
+tested line is 151
+chi is 130.66635930292986
+tested line is 152
+chi is 106.28720745796214
+tested line is 153
+chi is 210.15750506871728
+tested line is 154
+chi is 151.9464742463939
+tested line is 155
+chi is 101.80194791139674
+tested line is 156
+chi is 211.9057903142717
+tested line is 157
+chi is 104.39248680029061
+tested line is 158
+chi is 251.35236528001525
+tested line is 159
+chi is 245.07547133724623
+tested line is 160
+chi is 88.17357216138068
+tested line is 161
+chi is 104.22189683404265
+tested line is 162
+chi is 83.44346693456451
+tested line is 163
+chi is 152.04320843140363
+tested line is 164
+chi is 107.61004668516132
+tested line is 165
+chi is 153.41863948403022
+tested line is 166
+chi is 103.99265020818545
+tested line is 167
+chi is 152.924307932764
+tested line is 168
+chi is 129.43305827486483
+tested line is 169
+chi is 211.86957694982925
+tested line is 170
+chi is 3.9213445870952706
+tested line is 171
+chi is 153.37488963160064
+tested line is 172
+chi is 129.03831315984263
+tested line is 173
+chi is 129.2713895477367
+tested line is 174
+chi is 131.1387720786353
+tested line is 175
+chi is 210.7215572009926
+tested line is 176
+chi is 180.58535673608088
+tested line is 177
+chi is 103.75493685484741
+tested line is 178
+chi is 47.06389534417949
+tested line is 179
+chi is 65.01511195639821
+tested line is 180
+chi is 116.07407454815575
+tested line is 181
+chi is 102.8743616197776
+tested line is 182
+chi is 318.399084624902
+tested line is 183
+chi is 129.57071838623077
+tested line is 184
+chi is 128.68913450844255
+tested line is 185
+chi is 87.44705222976309
+tested line is 186
+chi is 106.81704624313575
+tested line is 187
+chi is 126.45143927714297
+tested line is 188
+chi is 183.71699583046563
+tested line is 189
+chi is 155.91621250834663
+tested line is 190
+chi is 180.62700752832527
+tested line is 191
+chi is 182.23736397834543
+tested line is 192
+chi is 286.58802095032945
+tested line is 193
+chi is 181.8602496076662
+tested line is 194
+chi is 152.06224225648833
+tested line is 195
+chi is 64.13800206771035
+tested line is 196
+chi is 154.14435977409727
+tested line is 197
+chi is 85.12551968563956
+tested line is 198
+chi is 126.75244220465008
+tested line is 199
+chi is 153.30570930722297
+tested line is 200
+chi is 130.8187950592018
+tested line is 201
+chi is 91.25294803621124
+tested line is 202
+chi is 213.59173920559144
+tested line is 203
+chi is 181.96844608599926
+tested line is 204
+chi is 246.80582092503792
+tested line is 205
+chi is 126.04931158757749
+tested line is 206
+chi is 132.41369492227682
+tested line is 207
+chi is 105.27547890973953
+tested line is 208
+chi is 116.4594834120314
+tested line is 209
+chi is 180.65094381352242
+tested line is 210
+chi is 127.99080542365559
+tested line is 211
+chi is 210.51034728774138
+tested line is 212
+chi is 152.76542490268122
+tested line is 213
+chi is 66.31622282120554
+tested line is 214
+chi is 179.66393190221902
+tested line is 215
+chi is 84.93859921640164
+tested line is 216
+chi is 65.60260290189554
+tested line is 217
+chi is 127.16041625577967
+tested line is 218
+chi is 102.22624283900844
+tested line is 219
+chi is 108.81867412049006
+tested line is 220
+chi is 83.94151622737616
+tested line is 221
+chi is 182.25194625270183
+tested line is 222
+chi is 182.70265519689008
+tested line is 223
+chi is 157.90625329003524
+tested line is 224
+chi is 180.99153620670384
+tested line is 225
+chi is 103.37973145305385
+tested line is 226
+chi is 182.80313882685118
+tested line is 227
+chi is 63.55374208276709
+tested line is 228
+chi is 152.20049405862636
+tested line is 229
+chi is 151.48410647611354
+tested line is 230
+chi is 51.29568343225714
+tested line is 231
+chi is 244.77566431011064
+tested line is 232
+chi is 72.92215055177061
+tested line is 233
+chi is 103.52089661420015
+tested line is 234
+chi is 211.82379361702917
+tested line is 235
+chi is 211.28881780428395
+tested line is 236
+chi is 212.15372710651522
+tested line is 237
+chi is 213.90305561582204
+tested line is 238
+chi is 243.44422766814478
+tested line is 239
+chi is 132.8982554990453
+tested line is 240
+chi is 131.0353692710726
+tested line is 241
+chi is 211.8142662586118
+tested line is 242
+chi is 136.9907351841116
+tested line is 243
+chi is 102.40089227968969
+tested line is 244
+chi is 245.79131472803556
+tested line is 245
+chi is 213.41969733033736
+tested line is 246
+chi is 111.33018748876978
+tested line is 247
+chi is 69.0748243800596
+tested line is 248
+chi is 221.85717421530754
+tested line is 249
+chi is 247.34643618752884
+tested line is 250
+chi is 154.6791401653262
+tested line is 251
+chi is 134.0750749729887
+tested line is 252
+chi is 159.4174643866498
+tested line is 253
+chi is 182.49716316132722
+tested line is 254
+chi is 156.40692355530143
+tested line is 255
+chi is 114.54282781288097
+tested line is 256
+chi is 91.96375599622935
+tested line is 257
+chi is 181.15023382660303
+tested line is 258
+chi is 126.38787609181581
+tested line is 259
+chi is 64.8761872841658
+tested line is 260
+chi is 211.23089928624358
+tested line is 261
+chi is 152.89259872827654
+tested line is 262
+chi is 131.04864803105406
+tested line is 263
+chi is 127.19405675713064
+tested line is 264
+chi is 129.89323296269924
+tested line is 265
+chi is 127.70746254714622
+tested line is 266
+chi is 244.61912847865608
+tested line is 267
+chi is 62.3945620917891
+tested line is 268
+chi is 180.81607388870506
+tested line is 269
+chi is 90.25833806406024
+tested line is 270
+chi is 154.1853758449314
+tested line is 271
+chi is 108.86189587200653
+tested line is 272
+chi is 155.46036474924242
+tested line is 273
+chi is 85.15916987858795
+tested line is 274
+chi is 181.20726696779198
+tested line is 275
+chi is 87.78537294992262
+tested line is 276
+chi is 125.70103723258453
+tested line is 277
+chi is 71.55759101660892
+tested line is 278
+chi is 147.29478964769865
+tested line is 279
+chi is 179.28451114373019
+tested line is 280
+chi is 55.35442339218685
+tested line is 281
+chi is 318.45053732558455
+tested line is 282
+chi is 212.6148190013856
+tested line is 283
+chi is 138.26696636902238
+tested line is 284
+chi is 113.3677371558126
+tested line is 285
+chi is 83.08395134078248
+tested line is 286
+chi is 212.89290951946037
+tested line is 287
+chi is 82.57980136304721
+tested line is 288
+chi is 83.54528454186149
+tested line is 289
+chi is 20.983865394246077
+tested line is 290
+chi is 111.12131981552447
+tested line is 291
+chi is 210.64643707575044
+tested line is 292
+chi is 156.38738416353402
+tested line is 293
+chi is 107.31036023431945
+tested line is 294
+chi is 127.13987723726119
+tested line is 295
+chi is 69.3601003969753
+tested line is 296
+chi is 184.88630313833116
+tested line is 297
+chi is 211.4752274608459
+tested line is 298
+chi is 109.64068203468509
+tested line is 299
+chi is 102.96851539626032
+tested line is 300
+chi is 210.5537922045223
+tested line is 301
+chi is 63.41116499637525
+tested line is 302
+chi is 105.16163084561528
+tested line is 303
+chi is 126.49810066990771
+tested line is 304
+chi is 127.01453661569548
+tested line is 305
+chi is 210.37004414084691
+tested line is 306
+chi is 210.94672846612158
+tested line is 307
+chi is 128.0267917251486
+tested line is 308
+chi is 215.98351584506875
+tested line is 309
+chi is 107.524323300819
+tested line is 310
+chi is 128.99055749892017
+tested line is 311
+chi is 180.9917578671218
+tested line is 312
+chi is 244.82182732003622
+tested line is 313
+chi is 280.06198433191264
+tested line is 314
+chi is 179.37513155051076
+tested line is 315
+chi is 62.630321520357185
+tested line is 316
+chi is 127.59056582995075
+tested line is 317
+chi is 181.8468092247824
+tested line is 318
+chi is 154.21630580001084
+tested line is 319
+chi is 151.79245771596717
+tested line is 320
+chi is 104.2112820600018
+tested line is 321
+chi is 59.06119598022046
+tested line is 322
+chi is 114.67502523807096
+tested line is 323
+chi is 153.71505581855317
+tested line is 324
+chi is 151.87571913999136
+tested line is 325
+chi is 182.01646890442674
+tested line is 326
+chi is 126.79975479151348
+detected line is 170
