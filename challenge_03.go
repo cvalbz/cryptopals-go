@@ -4,11 +4,13 @@ import (
 	"math"
 )
 
+// LetterFreqDist is an array with frequencies for alphabet letters
 // [26] - spaces
 // [27] - punctuation
 // [28] - unprintable
 type LetterFreqDist [29]float64
 
+// GetEnglishFreqDist returns distribution of English letters and other punctuation
 func GetEnglishFreqDist() LetterFreqDist {
 	return [29]float64{
 		0.0651738, 0.0124248, 0.0217339, 0.0349835, 0.0941442,
@@ -20,6 +22,7 @@ func GetEnglishFreqDist() LetterFreqDist {
 	}
 }
 
+// ChiSquared computes Chi2 between two distributions
 func ChiSquared(observed LetterFreqDist, expected LetterFreqDist) float64 {
 	result := float64(0)
 	for i, x := range observed {
@@ -29,7 +32,8 @@ func ChiSquared(observed LetterFreqDist, expected LetterFreqDist) float64 {
 	return result
 }
 
-func buildFreqDist(bs []byte) LetterFreqDist {
+// BuildFreqDist creates letter (and other punctuation) distribution for a text
+func BuildFreqDist(bs []byte) LetterFreqDist {
 	var result LetterFreqDist
 
 	totalChars := 0
@@ -72,13 +76,14 @@ func buildFreqDist(bs []byte) LetterFreqDist {
 	return result
 }
 
+// SingleByteXOR finds the key of a ciphertext encrypted with Single Byte XOR
 func SingleByteXOR(ciphertext []byte) (key byte, minChi float64) {
 	minChi = math.MaxFloat64
 
 	for keyCandidate := byte(0); keyCandidate < 255; keyCandidate++ {
 		messageCandidate := DecryptSingleByteXOR(byte(keyCandidate), ciphertext)
 
-		letterFreqDist := buildFreqDist(messageCandidate)
+		letterFreqDist := BuildFreqDist(messageCandidate)
 		chi := ChiSquared(letterFreqDist, GetEnglishFreqDist())
 
 		if chi < minChi {
@@ -89,6 +94,7 @@ func SingleByteXOR(ciphertext []byte) (key byte, minChi float64) {
 	return
 }
 
+// DecryptSingleByteXOR decrypts a ciphertext encrypted with a Single Byte XOR
 func DecryptSingleByteXOR(key byte, ciphertext []byte) []byte {
 	streamKey := make([]byte, len(ciphertext))
 	for i := range ciphertext {
